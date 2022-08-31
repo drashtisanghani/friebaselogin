@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246189649399",
+    "project_id": "fir-login-b2a23",
+    "storage_bucket": "fir-login-b2a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246189649399:android:76ac790c8d4d99d4e592f2",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246189649399-260msu4ijadd0uoauliu2nj9oblu89v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXqE3qMX-ATlGCu6Fz6wiHWpRi8DL5YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246189649399-260msu4ijadd0uoauliu2nj9oblu89v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
